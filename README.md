@@ -14,6 +14,8 @@ I build apps in Swift and design reusable frameworks — with a background in lo
 
 **Framework & SDK design.** Public APIs meant to be consumed by other teams: versioning, source stability, documentation, and distribution via Swift Package Manager and XCFrameworks.
 
+**Open source.** [tonconnect-swift](https://github.com/bbetsey/tonconnect-swift) — a native Swift implementation of the TON Connect protocol: no web views or JavaScript runtime, SwiftUI components out of the box, and a dual-engine conformance suite that validates the native implementation against the official JS SDK.
+
 **Application architecture.** SwiftUI and UIKit, MVVM and Clean Architecture, Combine and structured concurrency, offline-first persistence.
 
 **Systems programming.** C and C++ underneath — memory management, multithreading, network protocols, and bridging native code into Swift.
